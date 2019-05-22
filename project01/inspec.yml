@@ -1,0 +1,10 @@
+name: project01
+title: InSpec Profile
+maintainer: Samuel Birkholtz
+copyright: Samuel Bikrholtz
+copyright_email: sab@censhare.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
+supports:
+  platform: os
